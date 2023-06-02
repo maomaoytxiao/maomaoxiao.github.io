@@ -11,16 +11,16 @@ redirect_from:
 
 **Education**
 ======
-  * course: Postgraduate Certificates of Computer Science
-      * institution: National Taichung University of Science and Technology
+  * :mortar_board: Postgraduate Certificates of Computer Science
+      * :school: National Taichung University of Science and Technology
       * year: 2021-Present
 
-  * course: Plant Pathology of Microbiology
-      * institution: National Taiwan University 
+  * :mortar_board: Plant Pathology of Microbiology
+      * :school: National Taiwan University 
       * year: 2013-2017  
 
-  * course: Summer Exchange Research Program
-      * institution: NORTHWEST AGRICULTURE & FOREST UNIVERSITY
+  * :mortar_board: Summer Exchange Research Program
+      * :school: Northwest Agriculture & Forest University
       * year: 2016
 
 **Work experience**
