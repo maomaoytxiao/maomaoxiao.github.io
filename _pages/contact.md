@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Contact{#contact}
+## Contact
 ==========
 
 
@@ -22,7 +22,7 @@ If you have any questions or need further information, please feel free to conta
 
 * Email: [a223687@gmail.com]
 
-## <i class="fa-brands fa-linkedin"></i>LinkedIn
+## [![LinkedIn](https://raw.githubusercontent.com/username/repo/branch/path/to/linkedin_icon.png)]LinkedIn
 
 I also regularly check my LinkedIn. If you prefer to find me there, please click on the following link:
 
