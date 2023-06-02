@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-### Contact
+## Contact
 
 
 
@@ -13,8 +13,8 @@ author_profile: true
 
 You can find me at the following location:
 
-* Address: [No.11, Guangming Rd., Wufong, Taichung City, Taiwan]
-  * office_hours: 'Monday to Friday from 8:00 to 17:00.'
+* Address: No.11, Guangming Rd., Wufong, Taichung City, Taiwan
+  - office_hours: 'Monday to Friday from 8:00 to 17:00.'
 
 ## :email:Email
 
