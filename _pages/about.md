@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Profile**
+
 
 I am **YI-TING XIAO**, a Biostatistician and Data Scientist specializing in biostatistics, model development, experimental design, and data analysis. With a background in Plant Pathology of Microbiology from National Taiwan University and ongoing studies in Computer Science at National Taichung University of Science and Technology, I possess a strong foundation in both 
 **biological sciences** and **computational methods**.
