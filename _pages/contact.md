@@ -5,7 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Contact
+## Contact Information
+______________________
 
 
 
