@@ -4,65 +4,46 @@ title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
+**:mortar_board:Skills:mortar_board:**
 
 
 
-sections:
-  - block: features
-    content:
-      title: Skills
-      subtitle: Section subtitle
-      text: Section text
-      items:
-        - name: Mardian
-          description: Native
-          icon: :cn:
-          icon_pack: fab
-        - name: English
-          description: Advanced
-          icon: :es:
-          icon_pack: fab
-        - name: Japanese
-          description: Interminate
-          icon: :jp:
-          icon_pack: fab
-        - name: R
-          description:
-          icon: :chart_with_upwards_trend:
-          icon_pack: fab
-        - name: Python
-          description : 
-          icon: :computer:
-          icon_pack: fab-sharp
-        - name: C/C++
-          desceiption: 
-          icon: :computer:
-          icon_pack: fab-sharp
-        - name: Statistics
-          description: 
-          icon: :bar_chart:
-          icon_pack: fas
-        - name: SPSS
-          description: 
-          icon: :bar_chart:
-          icon_pack: fas
-        - name: SAS
-          description: 
-          icon: :bar_chart:
-          icon_pack: fas       
-        - name: Photography
-          description:
-          icon: :camera:
-          icon_pack: fas
-        - name: Pinao
-          description: 
-          icon : :musical_keyboard:
-          icon_pack: classic
-        - name: Work out
-          description: 
-          icon: :muscle:
-          icon_pack: solid
-        
+* name: Mardian
+  * description: Native
+  * icon: :cn:
+* name: English
+  * description: Advanced
+  * icon: :es:
+* name: Japanese
+  * description: Interminate
+  * icon: :es:         
+* name: R
+  * description: 
+  * icon: :chart_with_upwards_trend:  
+* name: Python
+  * description: 
+  * icon: :computer:      
+* name: C/C++
+  * description: 
+  * icon: :computer:  
+* name: Statistics
+  * description: 
+  * icon::bar_chart:
+* name: SPSS
+  * description: 
+  * icon::bar_chart:
+* name: SAS
+  * description: 
+  * icon::bar_chart:      
+* name: Photography
+  * description: 
+  * icon::camera:     
+* name: Pinao
+  * description: 
+  * icon::musical_keyboard:   
+* name: Work out
+  * description: 
+  * icon::muscle:
 
 
 
