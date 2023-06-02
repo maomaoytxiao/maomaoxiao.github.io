@@ -8,9 +8,9 @@ author_profile: true
 
 
 
-* name: Mardian
-  * description: Native
-  * icon: :cn:
+ * :cn: Mardian
+  * Native
+  
 * name: English
   * description: Advanced
   * icon: :es:
