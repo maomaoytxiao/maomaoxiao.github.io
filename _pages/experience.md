@@ -49,11 +49,11 @@ ___________________
     
 * ## Research Assistant                                                   July, 2017- Dec, 2018
   * [National Taiwan University](https://www.ntu.edu.tw/english/)
-   * Investigated the pathogen outbreaks in Annona fruits and formulated the control plan.
-   * Conducted molecular breeding to create optimized variety for genetic resistance against Magnaporthe oryzae in rice.
-   *  Studied the transcriptome of brown root rot disease and the bio-control mechanisms for Trichoderma spp. to Phellinus noxius in brown root rot disease.
-   * Upgraded early detection techniques for brown root disease in trees via metabolomics analyses of leaves.
-   * Used molecular markers and sifted through the genes of all banana varieties in Taiwan to identify the genome of
+    * Investigated the pathogen outbreaks in Annona fruits and formulated the control plan.
+    * Conducted molecular breeding to create optimized variety for genetic resistance against Magnaporthe oryzae in rice.
+    *  Studied the transcriptome of brown root rot disease and the bio-control mechanisms for Trichoderma spp. to Phellinus noxius in brown root rot disease.
+    * Upgraded early detection techniques for brown root disease in trees via metabolomics analyses of leaves.
+    * Used molecular markers and sifted through the genes of all banana varieties in Taiwan to identify the genome of
                 Panama disease’s pathogen.
 
      
