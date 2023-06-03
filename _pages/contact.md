@@ -23,10 +23,10 @@ If you have any questions or need further information, please feel free to conta
 
 * Email: [a223687@gmail.com]
 
-![LinkinedIn]
+## LinkinedIn
 I also regularly check my LinkedIn. If you prefer to find me there, please click on the following link:
 
-* [LinkedIn Personal Page Link](https://icon-library.com/images/linkedin-small-icon/linkedin-small-icon-17.jpg)
+* [**LinkedIn Personal Page Link**](https://www.linkedin.com/in/yiting-xiao-42159b128)
 
 ## ☎️ Phone
 
