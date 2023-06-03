@@ -23,7 +23,7 @@ If you have any questions or need further information, please feel free to conta
 
 * Email: [a223687@gmail.com]
 
-##  🇮🇳 LinkedIn
+##   LinkedIn
 
 I also regularly check my LinkedIn. If you prefer to find me there, please click on the following link:
 
