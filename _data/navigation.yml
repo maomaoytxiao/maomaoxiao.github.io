@@ -9,8 +9,8 @@ main:
   - title: "Conference presentations"
     url: /talks/    
     
-  #- title: "Projects"
-   # url: /projects/
+  - title: "Projects"
+    url: /projects/
         
   - title: "Skills"
     url: /skills/
