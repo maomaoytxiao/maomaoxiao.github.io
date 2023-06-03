@@ -23,7 +23,7 @@ If you have any questions or need further information, please feel free to conta
 
 * Email: [a223687@gmail.com]
 
-![LinkinedIn]('C:\Users\sharo\Documents\GitHub\maomaoxiao.github.io\images\linkin.png')
+![LinkinedIn](https://image.similarpng.com/very-thumbnail/2020/05/Icon-Linkedin-In-circle-PNG.png)
 I also regularly check my LinkedIn. If you prefer to find me there, please click on the following link:
 
 * [LinkedIn Personal Page Link](https://www.linkedin.com/in/yiting-xiao-42159b128/)
