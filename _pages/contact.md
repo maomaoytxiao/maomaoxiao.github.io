@@ -27,7 +27,7 @@ If you have any questions or need further information, please feel free to conta
 
 I also regularly check my LinkedIn. If you prefer to find me there, please click on the following link:
 
-* [LinkedIn Personal Page Link](linkedin.com/in/yiting-xiao)
+* [LinkedIn Personal Page Link](https://www.linkedin.com/in/yiting-xiao-42159b128/)
 
 ## ☎️ Phone
 
