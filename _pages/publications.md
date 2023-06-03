@@ -18,7 +18,7 @@ _____
 
 - **Yi-Ting Xiao**, Chao-Jen Wang, Tung-Chin Huang, Yuan-Min Shen. (2020). *Erysiphe lespedezae* causing powdery mildew on *Bauhinia variegata*, *B. blakeana*, and *Desmodium caudatum* in Taiwan. Forest Pathology, 50(5), e12631. [📃](https://doi.org/10.1111/efp.12631)
 
-- Yi-Chia Chen**, Dah-Jing Liao**, Yu-Cyuan Shih, Chieh-Yi Chen, **Yi-Ting Xiao**, Yong-Pei Wu, Wei-Chiang Shen, Wei-Bin Chang, An-Hsiu Cheng, Chia-Lin Chung. (2020). Identification of blast resistance gene Pik-KU in a rice cultivar Taikeng 8 (栽培稻臺稉8號帶抗稻熱病基因Pik-KU之探討). Journal of Plant Medicine (植物醫學期刊), vol. 62, no. 3, pp. 19-30. [📃](https://doi.org/10.6716/JPM.202009_62(3).0003) [📁](https://s30.aconvert.com/convert/p3r68-cdx67/a0c80-iitwj.html)
+- Yi-Chia Chen, Dah-Jing Liao, Yu-Cyuan Shih, Chieh-Yi Chen, **Yi-Ting Xiao**, Yong-Pei Wu, Wei-Chiang Shen, Wei-Bin Chang, An-Hsiu Cheng, Chia-Lin Chung. (2020). Identification of blast resistance gene Pik-KU in a rice cultivar Taikeng 8 (栽培稻臺稉8號帶抗稻熱病基因Pik-KU之探討). Journal of Plant Medicine (植物醫學期刊), vol. 62, no. 3, pp. 19-30. [📃](https://doi.org/10.6716/JPM.202009_62(3).0003) [📁](https://s30.aconvert.com/convert/p3r68-cdx67/a0c80-iitwj.html)
 
 - **Hao Chou**,**Yi-Ting Xiao**, Jyh-Nong Tsai, Ting-Ting Li, Hung-Yi Wu, Li-yu D. Liu, Der-Syh Tzeng, Chia-Lin Chung. (2019). In vitro and in planta evaluation of *Trichoderma asperellum* TA as a biocontrol agent against *Pyrrhoderma noxius* causing brown root rot of trees. Plant Disease, 103(11), 2733-2741. [📃](https://doi.org/10.1094/PDIS-01-19-0179-RE) [📁](https://apsjournals.apsnet.org/doi/epdf/10.1094/PDIS-01-19-0179-RE)
 
