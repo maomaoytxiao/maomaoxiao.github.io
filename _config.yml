@@ -7,13 +7,13 @@
 remote_theme: Minimal Mistakes
 # Site Settings
 locale                   : "en-US"
-title                    : "YI-TING XIAO"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "YI-TING XIAO"
-description              : &description "A Biostatistician and Data Science Zealot."
-url                      : https://maomaoxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description " A Biostatistician and Data Science Zealot."
+url                      : https://maomaoytxiao.github.io/maomaoxiao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "maomaoxiao/maomaoxiao.github.io"
+repository               : "maomaoytxiao/maomaoxiao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "YI-TING XIAO"
-  avatar           : "profile.JPG"
+  avatar           : "profile.2.JPG"
   bio              : " A Biostatistician and Data Science Zealot."
   location         : "Taichung, Taiwan"
   employer         : TAIWAN AGRICULTURAL CHEMICAL & TOXIC SUBSTANCES RESEARCH INSTITUTE
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=Yij_Eo4AAAAJ&hl=zh-TW"
   email            : "a223687@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "linkedin.com/in/yiting-xiao"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
