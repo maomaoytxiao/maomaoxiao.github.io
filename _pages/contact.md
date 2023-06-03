@@ -5,19 +5,19 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Contact Information
+# Contact Information
 ______________________
 
 
 
-## :office:Work Location
+## 🏢 Work Location
 
 You can find me at the following location:
 
 * Address: No.11, Guangming Rd., Wufong, Taichung City, Taiwan
-  - office_hours: 'Monday to Friday from 8:00 to 17:00.'
+  - office_hours: Monday to Friday from 8:00 to 17:00.
 
-## :email:Email
+## 📧 Email
 
 If you have any questions or need further information, please feel free to contact me via email:
 
@@ -29,7 +29,7 @@ I also regularly check my LinkedIn. If you prefer to find me there, please click
 
 * [LinkedIn Personal Page Link](linkedin.com/in/yiting-xiao)
 
-## :phone:Phone
+## ☎️ Phone
 
 For urgent matters, you can also reach me by phone:
 
