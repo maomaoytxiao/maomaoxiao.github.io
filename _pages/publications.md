@@ -25,7 +25,7 @@ _____
 ## Promoted articles
 _____
 
-- Yuan-Min Shen, **Yi-Ting Xiao** (2021) Occurrence and management of powdery mildew in Changhua region in recent years. Journal of Taichung Trading Quotation, 263, 3-3(3) 
+- Yuan-Min Shen, **Yi-Ting Xiao.** (2021) Occurrence and management of powdery mildew in Changhua region in recent years. Journal of Taichung Trading Quotation, 263, 3-3(3) 
 
 - **Yi-Ting Xiao**, Yuan-Min Shen. (2020) Study on the characteristics and the management of cruciferous black spot pathogens *Alternaria brassicae* (Berk) Sacc. Journal of Taichung Trading Quotation, 247, 3-3(3). 
 
