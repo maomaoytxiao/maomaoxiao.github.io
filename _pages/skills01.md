@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Skills"
-permalink: /skills/
+title: ""
+permalink: //
 author_profile: true
 ---
 **:mortar_board:Skills:mortar_board:**
