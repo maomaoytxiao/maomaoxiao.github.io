@@ -11,21 +11,21 @@ redirect_from:
 
 **Education**
 ======
-  * :mortar_board: Postgraduate Certificates of Computer Science
-      * :school: National Taichung University of Science and Technology
+  * 🎓 Postgraduate Certificates of Computer Science
+      * 🏫 National Taichung University of Science and Technology
       * year: 2021-Present
 
-  * :mortar_board: Plant Pathology of Microbiology
-      * :school: National Taiwan University 
+  * 🎓 Plant Pathology of Microbiology
+      * 🏫 National Taiwan University 
       * year: 2013-2017  
 
-  * :mortar_board: Summer Exchange Research Program
-      * :school: Northwest Agriculture & Forest University
+  * 🎓 Summer Exchange Research Program
+      * 🏫 Northwest Agriculture & Forest University
       * year: 2016
 
 **Work experience**
 ======
-* Research Technician    Aug, 2021- Present
+* Research Technician  | Aug, 2021- Present
   * [Taiwan Agricultural Chemicals and Toxic Substances Research Institute](https://www.tactri.gov.tw/En#gsc.tab=0)
     * Co-led the project of Establishment of carbon emission coefficient in biochar and pesticide use: conducted the pest
                 predictive lethal model by R and analyzed carbon emission coefficient data in biochar and pesticide use.
@@ -36,7 +36,7 @@ redirect_from:
                 and biofertilizers: inventoried the main plant deceases, to which the efficacy of pesticides was tested, 
                 and cooperated with World Vegetable Center to conduct field tests.
 
-* Food Chemistry Technician/ Research Assistant Dec, 2019- July, 2021
+* Food Chemistry Technician/ Research Assistant  | Dec, 2019- July, 2021
   * [Taichung District Agricultural Research and Extension Station](https://www.tdais.gov.tw/en/)
     * In charge of the project of Development of Fodder and Functional Microorganisms in Reuse and Value-adding of By-
                 Products in Crops Processing: singlehandedly designed and executed project, analyzed statistical data (by R) and
@@ -47,8 +47,8 @@ redirect_from:
     * Created classroom materials about fungicide treatments and crop disease management.
     * Analyzed and surveyed at least 500 pathogens in grape rot disease.
     
-* Research Assistant July, 2017- Dec, 2018
-  * National Taiwan University 
+* Research Assistant | July, 2017- Dec, 2018
+  * [National Taiwan University](https:///www.ntu.edu.tw)
    * Investigated the pathogen outbreaks in Annona fruits and formulated the control plan.
    * Conducted molecular breeding to create optimized variety for genetic resistance against Magnaporthe oryzae in rice.
    *  Studied the transcriptome of brown root rot disease and the bio-control mechanisms for Trichoderma spp. to Phellinus noxius in brown root rot disease.
