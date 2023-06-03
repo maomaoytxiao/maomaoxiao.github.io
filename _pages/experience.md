@@ -10,7 +10,7 @@ ___________________
 {% include base_path %}
 
 # Education 
-======
+___________________
   * 🎓 Postgraduate Certificates of Computer Science
       * 🏫 National Taichung University of Science and Technology
       * year: 2021-Present
@@ -24,7 +24,7 @@ ___________________
       * year: 2016
 
 # Work experience
-======
+___________________
 * ## Research Technician                                              Aug, 2021- Present
   * [Taiwan Agricultural Chemicals and Toxic Substances Research Institute](https://www.tactri.gov.tw/En#gsc.tab=0)
     * Co-led the project of Establishment of carbon emission coefficient in biochar and pesticide use: conducted the pest
