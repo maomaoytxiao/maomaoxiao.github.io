@@ -29,7 +29,7 @@ ___________________
   * [Taiwan Agricultural Chemicals and Toxic Substances Research Institute](https://www.tactri.gov.tw/En#gsc.tab=0)
     * Co-led the project of Establishment of carbon emission coefficient in biochar and pesticide use: conducted the pest
                 predictive lethal model by R and analyzed carbon emission coefficient data in biochar and pesticide use.
-    * In charge of the Bacillus thuringiensis bioassay inspections (10 inspections per month); optimized the bio-
+    * In charge of the *Bacillus thuringiensis* bioassay inspections (10 inspections per month); optimized the bio-
                  pesticide inspections in export and import products by R to expedite the efficiency of the data analysis period
                  (from 24 hours into 1 hour).
     * Led the project of Strengthening safe and off-season vegetable production in Cambodia-application of biopesticides
@@ -50,8 +50,8 @@ ___________________
 * ## Research Assistant                                                   July, 2017- Dec, 2018
   * [National Taiwan University](https://www.ntu.edu.tw/english/)
     * Investigated the pathogen outbreaks in Annona fruits and formulated the control plan.
-    * Conducted molecular breeding to create optimized variety for genetic resistance against Magnaporthe oryzae in rice.
-    *  Studied the transcriptome of brown root rot disease and the bio-control mechanisms for Trichoderma spp. to Phellinus noxius in brown root rot disease.
+    * Conducted molecular breeding to create optimized variety for genetic resistance against *Magnaporthe oryzae* in rice.
+    *  Studied the transcriptome of brown root rot disease and the bio-control mechanisms for *Trichoderma spp.* to *Phellinus noxius* in brown root rot disease.
     * Upgraded early detection techniques for brown root disease in trees via metabolomics analyses of leaves.
     * Used molecular markers and sifted through the genes of all banana varieties in Taiwan to identify the genome of
                 Panama disease’s pathogen.
