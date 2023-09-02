@@ -4,17 +4,16 @@ main:
     url: /experience/
 
   - title: "Publications"
-    url: /publications/    
+    url: /publications/
 
   - title: "Conference presentations"
-    url: /talks/    
-    
+    url: /talks/
+
   - title: "Projects"
     url: /projects/
-        
+
   - title: "Skills"
-    url: /skills/
-    
+    url: /skillss/
+
   - title: "Contact"
     url: /contact/
-    
