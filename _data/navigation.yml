@@ -10,7 +10,7 @@ main:
     url: /talks/
 
   - title: "Projects"
-    url: /projects/
+    url:
 
   - title: "Skills"
     url: /skills/
