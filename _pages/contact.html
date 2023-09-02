@@ -5,7 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-<br />
 <!DOCTYPE html>
 <html lang="zh-TW">
   <head>
@@ -18,28 +17,41 @@ author_profile: true
         margin: 20px;
         color: #333;
       }
+
       header {
         background-color: #f5f5f5;
         padding: 10px 0;
         text-align: center;
         border-bottom: 2px solid #ddd;
       }
-      h1,
-      h2 {
+
+      h1 {
         color: #086e5d;
         border-bottom: 2px solid #333;
         padding-bottom: 10px;
-        display: inline-block;
+        margin-bottom: 20px;
+      }
+
+      h2 {
+        margin-bottom: 10px;
+        color: #086e5d;
+        display: flex;
+        align-items: center;
       }
 
       h2 svg {
-        vertical-align: bottom;
         margin-right: 8px;
       }
 
       ul {
         list-style-type: none;
         padding-left: 0;
+      }
+
+      ul.special-list li {
+        list-style-type: disc;
+        margin-left: 20px;
+        margin-bottom: 20px;
       }
 
       li {
@@ -52,14 +64,21 @@ author_profile: true
         padding: 5px 10px;
         border-radius: 5px;
         background-color: #f4f4f4;
-        transition: background-color 0.3s;
+        transition: all 0.3s;
+        display: inline-block;
       }
 
       a:hover {
         background-color: #e4e4e4;
+        color: #024a3f;
+      }
+
+      em {
+        font-style: italic;
       }
     </style>
   </head>
+
   <body>
     <h1>Contact Information</h1>
     <br />
@@ -111,7 +130,7 @@ author_profile: true
     <h2>☎️ Phone</h2>
     <p>For urgent matters, you can also reach me by phone:</p>
     <ul>
-      <li><a> +886(4)2330-2101#821 </a></li>
+      <li><a href="tel:+886423302101"> +886(4)2330-2101#821 </a></li>
     </ul>
 
     <p>Thank you for your time, I look forward to hearing from you!</p>
